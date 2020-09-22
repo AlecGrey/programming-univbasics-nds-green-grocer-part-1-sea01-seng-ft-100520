@@ -30,3 +30,5 @@ def consolidate_cart(cart)
   end
   consolidated_cart
 end
+
+puts consolidate_cart(unconsolidated_cart)
